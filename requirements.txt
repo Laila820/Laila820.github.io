@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+streamlit-authenticator
+streamlit-option-menu
+extra-streamlit-components
+scikit-learn
+Pillow
+requests
